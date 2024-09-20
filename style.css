@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+} 
+
+.landing-page{
+    display: flex;
+    flex-direction: column;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo {
+    width: 300px;
+}
+
+.call-to-action-top {
+    display: flex;
+    justify-content: space-around;
+}
+
+.random-information {
+    display: flex;
+    flex-direction: column;
+}
+
+.illustrations {
+    display: flex;
+    justify-content: space-around;
+}
+
+.random-information-title {
+    text-align: center;
+}
+
+.quote-content {
+    text-align: justify;
+}
+
+.quote-author {
+    text-align: right;
+}
+
+.call-to-action-bottom {
+    display: flex;
+    justify-content: space-around;
+}
